@@ -1,6 +1,6 @@
-<h1 align="left">Hi 👋! , I am a Frontend dev and UI and UX enthusiast.</h1>
+<h1 align="left">Hi 👋! , I am Kunwar Singh Thakur(Kt)  </h1>
 
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
 
@@ -31,8 +31,8 @@
 <h2 align="left">Connect with me :-</h2>
 
 ###
- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tapeshdua" height="30" width="40" /></a>
- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tapeshdua420" height="30" width="40" /></a>
+ <a href="https://leetcode.com/u/kunwarsinghthakur821/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tapeshdua" height="30" width="40" /></a>
+ <a href="https://www.geeksforgeeks.org/user/kunwarsinghxcda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tapeshdua420" height="30" width="40" /></a>
 <div align="left">
 
 
@@ -57,5 +57,9 @@
   <img src="https://github-profile-trophy.vercel.app?username=10-KUNWAR&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=10-KUNWAR&radius=90&theme=elegant&area=true&order=5&bg_color=black&point=pink&custom_title=Graph&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 ###
