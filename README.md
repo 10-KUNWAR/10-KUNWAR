@@ -1,4 +1,10 @@
-<h1 align="left">Hi 👋! , I am Kunwar Singh Thakur(Kt)  </h1>
+<h1 align="left">Hi 👋! , I am Kunwar Singh Thakur (Kt)  </h1>
+<h2>My Primary Skills is in  :-  </h2>
+
+
+
+
+
 
 
 
