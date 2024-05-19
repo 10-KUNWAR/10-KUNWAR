@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋! , I am a Frontend dev and UI and UX enthusiast.</h1>
 
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+
 ###
 
 <h2 align="left">Tech  stack :-</h2>
