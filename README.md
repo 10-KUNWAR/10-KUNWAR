@@ -46,13 +46,15 @@
 <h2 align="left">Connect with me :-</h2>
 
 ###
- <a href="https://leetcode.com/u/kunwarsinghthakur821/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tapeshdua" height="30" width="40" /></a>
- <a href="https://www.geeksforgeeks.org/user/kunwarsinghxcda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tapeshdua420" height="30" width="40" /></a>
+ <a href="https://leetcode.com/u/kunwarsinghthakur821/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunwar" height="30" width="40" /></a>
+ <a href="https://www.geeksforgeeks.org/user/kunwarsinghxcda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kunwar" height="30" width="40" /></a>
+ <a href="https://www.hackerrank.com/profile/kunwarsinghthak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="..." height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/KUNWAR_SINGH_THAKUR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="...." height="30" width="40" /></a>
 <div align="left">
 
 
  
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/kunwar-singhthakur-959114220/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
 </div>
