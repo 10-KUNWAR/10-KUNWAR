@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋! , I am Kunwar Singh Thakur (Kt)  </h1>
 
 <div>
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" height=250 >
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" height=250>
-<img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width=330>
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" height=200 >
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" height=200>
+<img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width=260>
 </div>
 
 <h2>My Primary Skills is in  :-  </h2>
